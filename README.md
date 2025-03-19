@@ -1,4 +1,4 @@
-#The Que Club - Snooker Club Website
+The Que Club - Snooker Club Website
 
 
 
