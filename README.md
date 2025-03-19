@@ -40,6 +40,6 @@ git clone https://github.com/yourusername/the-que-club.git
 
 2.Navigate to the project folder:
 
-3.cd the-que-club
+cd the-que-club
 
-Open index.html in a web browser to explore the website.
+3.Open index.html in a web browser to explore the website.
